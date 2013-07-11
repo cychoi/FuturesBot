@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="lib" path="lib/commons-codec-1.3.jar"/>
+	<classpathentry kind="lib" path="lib/commons-logging-1.1.1.jar"/>
+	<classpathentry kind="lib" path="lib/google-api-client-1.12.0-beta.jar"/>
+	<classpathentry kind="lib" path="lib/google-api-services-calendar-v3-rev19-1.12.0-beta.jar"/>
+	<classpathentry kind="lib" path="lib/google-http-client-1.12.0-beta.jar"/>
+	<classpathentry kind="lib" path="lib/google-http-client-jackson2-1.12.0-beta.jar"/>
+	<classpathentry kind="lib" path="lib/google-oauth-client-1.12.0-beta.jar"/>
+	<classpathentry kind="lib" path="lib/google-oauth-client-java6-1.12.0-beta.jar"/>
+	<classpathentry kind="lib" path="lib/google-oauth-client-jetty-1.12.0-beta.jar"/>
+	<classpathentry kind="lib" path="lib/guava-jdk5-13.0.jar"/>
+	<classpathentry kind="lib" path="lib/htmlparser.jar"/>
+	<classpathentry kind="lib" path="lib/httpclient-4.0.3.jar"/>
+	<classpathentry kind="lib" path="lib/httpcore-4.0.1.jar"/>
+	<classpathentry kind="lib" path="lib/jackson-core-2.0.5.jar"/>
+	<classpathentry kind="lib" path="lib/jetty-6.1.26.jar"/>
+	<classpathentry kind="lib" path="lib/jetty-util-6.1.26.jar"/>
+	<classpathentry kind="lib" path="lib/jna.jar"/>
+	<classpathentry kind="lib" path="lib/jsr305-1.3.9.jar"/>
+	<classpathentry kind="lib" path="lib/servlet-api-2.5-20081211.jar"/>
+	<classpathentry kind="lib" path="lib/smack.jar"/>
+	<classpathentry kind="lib" path="lib/smackx.jar"/>
+	<classpathentry kind="lib" path="lib/xpp3-1.1.4c.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
