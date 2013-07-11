@@ -18,7 +18,7 @@ Blog：http://server.everfine.com.tw/blog/<br/>
 　d.GetWednesday.java是檢查每個月台指期和摩台期結算日。<br/>
 　e.請自行設定排程時間，於每日早上八點四十五分之前執行。<br/>
 
-3.下單機
+3.下單機<br/>
 　a.建議使用下單大師，http://moneyprinter.pixnet.net/blog<br/>
 　b.或者，請參閱<a href="http://server.everfine.com.tw/blog/archives/2013/03/4.html">程式交易經驗分享系列(4) - 下單機設定及系列回顧</a><br/>
 
